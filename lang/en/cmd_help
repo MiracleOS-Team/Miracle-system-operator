@@ -1,0 +1,17 @@
+
+Usage:
+  abg [command]
+
+Available Commands:
+  [subsystem] Work with the specified subsystem, accessing the package manager and environment.
+  completion  Generate the autocompletion script for the specified shell
+  help        Help about any command
+  pkgmanagers Work with the package managers that are available in abg.
+  stacks      Work with the stacks that are available in abg.
+  subsystems  Work with the subsystems that are available in abg.
+
+Flags:
+  -h, --help      help for abg
+  -v, --version   version for abg
+
+Use "abg [command] --help" for more information about a command.
